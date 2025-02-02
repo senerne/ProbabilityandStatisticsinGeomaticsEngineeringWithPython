@@ -53,6 +53,3 @@ This repository contains my assignment for the **GEO 225E - Probability and Stat
 
 ## 📌 Conclusion
 This assignment demonstrates the application of probability theory in **Geomatics Engineering**, leveraging **Python for statistical analysis and visualization**. The provided scripts allow for a structured approach to handling probability distributions and their real-world applications.
-
-Feel free to explore the code and documentation, and contact me if you have any questions! 🚀
-
